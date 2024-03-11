@@ -19,3 +19,6 @@ await query(sql`
 		AND a1.role = 'Commander'
 		AND a2.role = 'Pilot'
 `);
+
+// Close the database connection
+await database.close();
