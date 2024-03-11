@@ -1,6 +1,4 @@
-# sql
-
-To install dependencies:
+# Posgres Template
 
 ## install runtime
 
